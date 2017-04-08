@@ -59,6 +59,7 @@ ul {
 }
 ul li {
   margin-top: 3px;
+    padding-left: 30px;
 }
 
 @-webkit-keyframes blink {
